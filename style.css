@@ -1,0 +1,67 @@
+@charset "windows-1251";
+/* CSS Document */
+
+.main_border {border:2px solid #D9E9C9;}
+p {pont-family:Arial; font-size:10px;}
+.webstyle {font:Arial, Helvetica, sans-serif}
+.menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	font-weight:bold;
+	color: #FFF;
+}
+.sort {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	font-weight:bold;
+	color: #2A3F00;
+}
+.h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 130%;
+	font-weight:bold;
+	color: #2A3F00;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	font-weight:bold;
+	color: #2A3F00;
+}
+.tabl {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 60%;
+	font-weight:bold;
+	color: #2A3F00;
+}
+.h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	font-weight:bold;
+	color: #2A3F00;
+}
+.skid {
+	font-size: 100%;
+	color: #FF1F00;
+}
+
+.name_prod {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 110%;
+	font-weight:bold;
+	color: #2A3F00;
+}
+.price {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 110%;
+	font-weight:bold;
+	color: #FF1F00;
+}
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
+.rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+   }

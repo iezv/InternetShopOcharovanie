@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="XmlValidator.inc.php" server="D:/wamp64/www/" local="131061608302134802" remote="131061608300000000" Dst="2" />
+<file name="Writer.inc.php" server="D:/wamp64/www/" local="131061608306034862" remote="131061608300000000" Dst="2" />
+<file name="WebServerEnvInfo.inc.php" server="D:/wamp64/www/" local="131061608309619917" remote="131061608300000000" Dst="2" />
+<file name="View.inc.php" server="D:/wamp64/www/" local="131061608312319958" remote="131061608310000000" Dst="2" />
+<file name="Template.inc.php" server="D:/wamp64/www/" local="131061608316395021" remote="131061608310000000" Dst="2" />
+<file name="ScannerController.inc.php" server="D:/wamp64/www/" local="131061608324570146" remote="131061608320000000" Dst="2" />
+<file name="Quarantiner.inc.php" server="D:/wamp64/www/" local="131061608324595146" remote="131061608320000000" Dst="2" />
+<file name="MalwareDetector.inc.php" server="D:/wamp64/www/" local="131061608333645285" remote="131061608330000000" Dst="2" />
+<file name="Localization.inc.php" server="D:/wamp64/www/" local="131061608334920305" remote="131061608330000000" Dst="2" />
+<file name="Initialization.inc.php" server="D:/wamp64/www/" local="131061608339920381" remote="131061608330000000" Dst="2" />
+<file name="Healer.inc.php" server="D:/wamp64/www/" local="131061608341220401" remote="131061608340000000" Dst="2" />
+<file name="FileList.inc.php" server="D:/wamp64/www/" local="131061608348120507" remote="131061608340000000" Dst="2" />
+<file name="FileInfo.inc.php" server="D:/wamp64/www/" local="131061608347670500" remote="131061608340000000" Dst="2" />
+<file name="ExecutorController.inc.php" server="D:/wamp64/www/" local="131061608354520605" remote="131061608350000000" Dst="2" />
+<file name="DownloadController.inc.php" server="D:/wamp64/www/" local="131061608354945611" remote="131061608350000000" Dst="2" />
+<file name="CmsVersionDetector.inc.php" server="D:/wamp64/www/" local="131061608361955719" remote="131061608360000000" Dst="2" />
+<file name="Auth.inc.php" server="D:/wamp64/www/" local="131061608361130707" remote="131061608360000000" Dst="2" />
+<file name="Archiver.inc.php" server="D:/wamp64/www/" local="131061608368855825" remote="131061608360000000" Dst="2" />
+</dwsync>
